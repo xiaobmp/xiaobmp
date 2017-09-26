@@ -1,7 +1,7 @@
 import tornado.ioloop
 import tornado.web
 
-from server.handler import hello_world
+from handler import hello_world
 
 
 application = tornado.web.Application(

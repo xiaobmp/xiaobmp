@@ -1,4 +1,4 @@
-from server.base.base_server import BaseHandler
+from base.base_server import BaseHandler
 
 
 class MainHandler(BaseHandler):
